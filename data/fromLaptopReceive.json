@@ -1,0 +1,11 @@
+{
+    "person": {
+        "personId": 0,
+        "x-axis": "10px",
+        "y-axis": "10px",
+        "selected": 1,
+        "width": "10px",
+        "height": "10px"
+    },
+    "flightMode" : 0
+}
